@@ -1,0 +1,8 @@
+Pablo Pérez Méndez
+Grupo MH1
+ccppabloperez@correo.ugr.es
+54108599H
+
+Esta práctica está hecha en Python.
+Debido a algún problema con el tipo de función usado para leer archivos, la cual no reconocía rutas relativas que permitiesen alojar los sources separados de los ficheros de datos, se ha puesto todo (los ficheros de datos, de restricciones y el .py) en la misma carpeta.
+
